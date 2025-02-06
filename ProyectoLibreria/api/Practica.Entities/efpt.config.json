@@ -1,0 +1,53 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "DbbibliotecaContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Entities",
+   "OutputContextPath": null,
+   "OutputPath": "Entities",
+   "ProjectRootNamespace": "Entities",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 2,
+   "Tables": [
+      {
+         "Name": "[Acceso].[tbUsuarios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[General].[tbAutores]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[General].[tbGeneros]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[General].[tbLibros]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[General].[tbPaises]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "LAPTOP-MRLVHLO2.DBBiblioteca",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
